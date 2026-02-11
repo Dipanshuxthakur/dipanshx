@@ -3,6 +3,11 @@
 🎓 I’m a B.Tech student and a passionate **Python Backend Developer** with a deep interest in **Data Science**, **Artificial Intelligence**, and **Machine Learning**.
 
 ---
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+
+
     
 
 
